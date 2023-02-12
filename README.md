@@ -6,8 +6,16 @@
 #### D-Marketing provides different services all of which are described in website. 
 
 ##### This website has been made using HTML, CSS and Javascript in Visual Stdio code and also focuses on mobile, desktop responsiveness.
-Snapshot of Desktop Responsiveness:-
+
+
+##### Snapshot of Mobile Responsiveness:-
+
+
 ![image](https://user-images.githubusercontent.com/68496510/218309003-61f487d2-bd06-4cf7-a2e2-aacc49889cf3.png)
-Snapshot of Mobile Responsivessness:-
+
+
+##### Snapshot of Desktop Responsivessness:-
+
+
 ![image](https://user-images.githubusercontent.com/68496510/218308972-cd24288e-f7f6-4531-993b-6e09273353ef.png)
 
